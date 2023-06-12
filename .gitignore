@@ -4,6 +4,7 @@
 .LSOverride
 
 # Application
+go.mod
 helloworld
 
 # Icon must end with two \r
